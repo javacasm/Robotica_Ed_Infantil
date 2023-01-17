@@ -17,16 +17,23 @@ Licencia CC by SA @javacasm
 
 ## Contenidos
 
-- El pensamiento computacional y los juegos.
+- [El pensamiento computacional y los juegos](./scratch/9.0.PC_Unplugged.md)
 - Juegos de pensamiento computacional desconectado.
+- [Robótica en educación](./scratch/8.0.RoboticaIntroduccion.md)
 - Robótica en educación infantil: escornabot y beebot.
+- [Robótica en educación primaria](./scratch/8.1.0.RoboticaPrimaria.md)
 - Otros kits de iniciación a la robótica.
-- Iniciación a la programación: Code.org.
-- Programando con bloques: Scratch Jr.
-- Placa Makey-Makey y su uso con Scratch
-- Iniciación a la robótica con micro:bit.
+- [Programación en la educación](./scratch/1.0.ProgramacionEnEducacion.md)
+- [Iniciación a la programación: Code.org](scratch/2.0.HerramientasProgramacionBloques.md)
+- [Programando con bloques: Scratch Jr.](./scratch/3.2.ScratchEntabletas.md)
+- [Programando con bloques: Scratch](./scratch/3.0.Scratch3.0.md)
+- [Placa Makey-Makey y su uso con Scratch](./scratch/8.2.QueEsMM.md)
+- [Robótica con micro:bit](./microbit/0.Introduccion.md)
 - Apps para iniciación a la programación.
-- Uso de piezas impresas en 3D.
+- [Uso de impresoras 3D](./3D/README.md)
+- [Introducción al diseño 3D](./3D/9.0.HerramientasDiseño3D.md)
+
+
 
 ## Descripción
 
@@ -106,7 +113,6 @@ Ed. Primaria - 3er ciclo
 [Scratch](https://scratch.mit.edu/)
 
 ![](./images/RecorridoAndaluciaMapa.png)
-
 
 [Tinkercad](https://tinkercad.com)
 
