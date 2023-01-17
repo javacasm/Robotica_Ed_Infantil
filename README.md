@@ -1,6 +1,6 @@
 #  INTRODUCCIÓN A LA ROBÓTICA Y AL PENSAMIENTO COMPUTACIONAL EN INFANTIL ([231813GE014](https://www.juntadeandalucia.es/educacion/secretariavirtual/consultaCEP/actividad/231813GE014/))
 
-[https://bit.ly/rob-infantil](https://bit.ly/rob-infantil)
+## [https://bit.ly/rob-infantil](https://bit.ly/rob-infantil)
 
 ## CEP de Guadix
 
