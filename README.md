@@ -20,7 +20,7 @@ Licencia CC by SA @javacasm
 - [El pensamiento computacional y los juegos](./scratch/9.0.PC_Unplugged.md)
 - Juegos de pensamiento computacional desconectado.
 - [Robótica en educación](./scratch/8.0.RoboticaIntroduccion.md)
-- Robótica en educación infantil: escornabot y beebot.
+- Robótica en educación infantil: [escornabot](./robots/escornabot.md) y [beebot](./robots/beebot.md).
 - [Robótica en educación primaria](./scratch/8.1.0.RoboticaPrimaria.md)
 - Otros kits de iniciación a la robótica.
 - [Programación en la educación](./scratch/1.0.ProgramacionEnEducacion.md)
