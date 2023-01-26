@@ -44,6 +44,7 @@
 * [Introducción a Scratch](./3.0.Scratch3.0.md)
 * [Primeros programas con Scratch 3.0](./3.1.PrimerosEjemplos.md)
 * [Scratch 3.0 y Scratch Jr, applicaciones para tabletas Android](./3.2.ScratchEntabletas.md)
+* [Scratch Jr.](./3.3.ScratchJr.md)
 
 ### Sesión 4: Trabajando con recursos
 
