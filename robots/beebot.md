@@ -15,7 +15,7 @@
 
 [Compras beebot](https://ro-botica.com/tienda/bee-bot)
 
-### Tapetes
+## Tapetes
 
 [Tapetes programamos](https://programamos.es/recursos/beebots/)
 
