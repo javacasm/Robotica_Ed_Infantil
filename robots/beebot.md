@@ -15,6 +15,16 @@
 
 [Compras beebot](https://ro-botica.com/tienda/bee-bot)
 
+[Robot de suelo con Mi cajon de sastre infantil](https://micajondesastreinfantil.blogspot.com/search/label/Robotica)
+
+## Clones de beebot
+
+[Doc clementoni](https://micajondesastreinfantil.blogspot.com/2018/10/doc-clementoni-un-robot-para-los-peques.html)
+
+[Robot mouse](http://laclasedemiren.blogspot.com/2017/01/taller-de-robotica-os-presentamos.html)
+
+[Robot mouse 2](https://aprenderconrobots.com/robots-programables/bee-blue-bot-y-robot-mouse/)
+
 ## Tapetes
 
 [Tapetes programamos](https://programamos.es/recursos/beebots/)
@@ -26,4 +36,9 @@
 [Tapetes EarlyLearning](https://www.earlylearninghq.org.uk/themes/themed-bee-bot-mats/)
 
 [Tapetes Educación Navarra](https://codigo21.educacion.navarra.es/recursos/alfombras-para-bee-bots/)
+
+[Tapetes y fichas de aprende jugando con Selaidru](https://aprendejugandoconselaidru.blogspot.com/search?q=beebot)
+
+[Talleres de Miren](http://laclasedemiren.blogspot.com/2017/01/taller-de-robotica-os-presentamos.html)
+
 
