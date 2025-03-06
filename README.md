@@ -2,7 +2,7 @@
 
 ## [https://bit.ly/rob-infantil](https://bit.ly/rob-infantil)
 
-Enero 2023
+Junio 2024
 
 ![](./images/Licencia_CC_peque.png)
 
